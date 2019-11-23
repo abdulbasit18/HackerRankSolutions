@@ -10,9 +10,9 @@ import Foundation
 
 class AppleAndOrangesSolution {
 
-    func countApplesAndOranges(s: Int, t: Int, a: Int, b: Int, apples: [Int], oranges: [Int]) -> Void {
+    func countApplesAndOranges(s: Int, t: Int, a: Int, b: Int, apples: [Int], oranges: [Int]) -> [Int] {
         
-        func printFruitCount(fruits : [Int] , distanceOfTtree : Int) {
+        func getTotalCount(fruits : [Int] , distanceOfTtree : Int) -> Int {
             var totalCount = 0
             _ = fruits.map{
                 
@@ -23,12 +23,12 @@ class AppleAndOrangesSolution {
                 }
                 
             }
-            print(totalCount)
+            return totalCount
             
         }
-        
-        printFruitCount(fruits: apples, distanceOfTtree: a)
-        printFruitCount(fruits: oranges, distanceOfTtree: b)
+        return [
+        getTotalCount(fruits: apples, distanceOfTtree: a),
+        getTotalCount(fruits: oranges, distanceOfTtree: b)]
         
     }
     

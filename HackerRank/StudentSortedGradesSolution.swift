@@ -9,7 +9,7 @@
 import Foundation
 
 class StudentSortedGradesSolution {
-    func gradeStudent (grades : [Int]) {
+    func gradeStudent (grades : [Int]) -> [Int] {
         
         var sortedGrades = [Int]()
         
@@ -23,5 +23,7 @@ class StudentSortedGradesSolution {
             }
             sortedGrades.append(grade)
         }
+        
+        return sortedGrades
     }
 }

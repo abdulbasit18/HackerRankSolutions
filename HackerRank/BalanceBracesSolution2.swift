@@ -11,7 +11,7 @@ import Foundation
 class BalanceBracesSolution2 {
     
     
-    static func braces(values: [String]) -> [String] {
+     func braces(values: [String]) -> [String] {
         
         var output = [String]()
         
