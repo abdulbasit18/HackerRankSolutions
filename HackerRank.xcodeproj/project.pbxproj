@@ -14,6 +14,8 @@
 		6E012E4623892D3800858F28 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E012E4423892D3800858F28 /* LaunchScreen.storyboard */; };
 		6E012E5123892D3900858F28 /* HackerRankTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E012E5023892D3900858F28 /* HackerRankTests.swift */; };
 		6E012E5C23892D3900858F28 /* HackerRankUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E012E5B23892D3900858F28 /* HackerRankUITests.swift */; };
+		6E012E6A23893D5F00858F28 /* AppleAndOrangesSolution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E012E6923893D5F00858F28 /* AppleAndOrangesSolution.swift */; };
+		6E012E6C23893E2200858F28 /* BalanceBracesSolution1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E012E6B23893E2200858F28 /* BalanceBracesSolution1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		6E012E5723892D3900858F28 /* HackerRankUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HackerRankUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E012E5B23892D3900858F28 /* HackerRankUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackerRankUITests.swift; sourceTree = "<group>"; };
 		6E012E5D23892D3900858F28 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6E012E6923893D5F00858F28 /* AppleAndOrangesSolution.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleAndOrangesSolution.swift; sourceTree = "<group>"; };
+		6E012E6B23893E2200858F28 /* BalanceBracesSolution1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BalanceBracesSolution1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				6E012E4223892D3800858F28 /* Assets.xcassets */,
 				6E012E4423892D3800858F28 /* LaunchScreen.storyboard */,
 				6E012E4723892D3800858F28 /* Info.plist */,
+				6E012E6923893D5F00858F28 /* AppleAndOrangesSolution.swift */,
+				6E012E6B23893E2200858F28 /* BalanceBracesSolution1.swift */,
 			);
 			path = HackerRank;
 			sourceTree = "<group>";
@@ -257,7 +263,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				6E012E3E23892D3700858F28 /* ViewController.swift in Sources */,
+				6E012E6C23893E2200858F28 /* BalanceBracesSolution1.swift in Sources */,
 				6E012E3C23892D3700858F28 /* AppDelegate.swift in Sources */,
+				6E012E6A23893D5F00858F28 /* AppleAndOrangesSolution.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
