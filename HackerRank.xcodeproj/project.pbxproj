@@ -16,6 +16,8 @@
 		6E012E5C23892D3900858F28 /* HackerRankUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E012E5B23892D3900858F28 /* HackerRankUITests.swift */; };
 		6E012E6A23893D5F00858F28 /* AppleAndOrangesSolution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E012E6923893D5F00858F28 /* AppleAndOrangesSolution.swift */; };
 		6E012E6C23893E2200858F28 /* BalanceBracesSolution1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E012E6B23893E2200858F28 /* BalanceBracesSolution1.swift */; };
+		6E012E6E2389402200858F28 /* StudentSortedGradesSolution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E012E6D2389402200858F28 /* StudentSortedGradesSolution.swift */; };
+		6E012E70238943E400858F28 /* KanjarooProblem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E012E6F238943E400858F28 /* KanjarooProblem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		6E012E5D23892D3900858F28 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6E012E6923893D5F00858F28 /* AppleAndOrangesSolution.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleAndOrangesSolution.swift; sourceTree = "<group>"; };
 		6E012E6B23893E2200858F28 /* BalanceBracesSolution1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BalanceBracesSolution1.swift; sourceTree = "<group>"; };
+		6E012E6D2389402200858F28 /* StudentSortedGradesSolution.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentSortedGradesSolution.swift; sourceTree = "<group>"; };
+		6E012E6F238943E400858F28 /* KanjarooProblem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KanjarooProblem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +113,8 @@
 				6E012E4723892D3800858F28 /* Info.plist */,
 				6E012E6923893D5F00858F28 /* AppleAndOrangesSolution.swift */,
 				6E012E6B23893E2200858F28 /* BalanceBracesSolution1.swift */,
+				6E012E6D2389402200858F28 /* StudentSortedGradesSolution.swift */,
+				6E012E6F238943E400858F28 /* KanjarooProblem.swift */,
 			);
 			path = HackerRank;
 			sourceTree = "<group>";
@@ -262,9 +268,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E012E6E2389402200858F28 /* StudentSortedGradesSolution.swift in Sources */,
 				6E012E3E23892D3700858F28 /* ViewController.swift in Sources */,
 				6E012E6C23893E2200858F28 /* BalanceBracesSolution1.swift in Sources */,
 				6E012E3C23892D3700858F28 /* AppDelegate.swift in Sources */,
+				6E012E70238943E400858F28 /* KanjarooProblem.swift in Sources */,
 				6E012E6A23893D5F00858F28 /* AppleAndOrangesSolution.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
