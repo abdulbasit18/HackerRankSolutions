@@ -8,6 +8,9 @@
 
 class BalanceBracesSolution1 {
     
+    // It works well for braces count but if you need sequence matching too
+    // Look into file BalanceBracesSolution2
+    
     func braces(values: [String]) -> [String] {
         
         var output = [String]()
