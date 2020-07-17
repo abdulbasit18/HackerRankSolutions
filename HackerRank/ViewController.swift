@@ -13,11 +13,11 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        
+        let solution = DayOfTheProgrammer()
+        let answer = solution.dayOfProgrammer(year: 2016)
+        print("Answer is: \(answer)")
     }
-    
-    
-    
-
-
 }
 

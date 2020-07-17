@@ -17,8 +17,14 @@
 		6E012E6A23893D5F00858F28 /* AppleAndOrangesSolution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E012E6923893D5F00858F28 /* AppleAndOrangesSolution.swift */; };
 		6E012E6C23893E2200858F28 /* BalanceBracesSolution1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E012E6B23893E2200858F28 /* BalanceBracesSolution1.swift */; };
 		6E012E6E2389402200858F28 /* StudentSortedGradesSolution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E012E6D2389402200858F28 /* StudentSortedGradesSolution.swift */; };
-		6E012E70238943E400858F28 /* KanjarooProblem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E012E6F238943E400858F28 /* KanjarooProblem.swift */; };
+		6E012E70238943E400858F28 /* KangarooProblem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E012E6F238943E400858F28 /* KangarooProblem.swift */; };
 		6E012E7223897BD100858F28 /* BalanceBracesSolution2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E012E7123897BD100858F28 /* BalanceBracesSolution2.swift */; };
+		6E694C1A24C021B2007681F9 /* MigratoryBirds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E694C1924C021B2007681F9 /* MigratoryBirds.swift */; };
+		6E694C1C24C039ED007681F9 /* DayOfTheProgrammer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E694C1B24C039ED007681F9 /* DayOfTheProgrammer.swift */; };
+		6E9CD9CD24BF886F00A0CA8D /* DivisibleSumPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E9CD9CC24BF886F00A0CA8D /* DivisibleSumPairs.swift */; };
+		6EB0AC8024BEF281005ABFFB /* BreakingTheRecords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EB0AC7F24BEF281005ABFFB /* BreakingTheRecords.swift */; };
+		6EB0AC8224BEFE86005ABFFB /* BirthdayChocolate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EB0AC8124BEFE86005ABFFB /* BirthdayChocolate.swift */; };
+		6EBC365C24BE287900C73C98 /* BetweenTwoSetsSolution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EBC365B24BE287800C73C98 /* BetweenTwoSetsSolution.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,8 +61,14 @@
 		6E012E6923893D5F00858F28 /* AppleAndOrangesSolution.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleAndOrangesSolution.swift; sourceTree = "<group>"; };
 		6E012E6B23893E2200858F28 /* BalanceBracesSolution1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BalanceBracesSolution1.swift; sourceTree = "<group>"; };
 		6E012E6D2389402200858F28 /* StudentSortedGradesSolution.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentSortedGradesSolution.swift; sourceTree = "<group>"; };
-		6E012E6F238943E400858F28 /* KanjarooProblem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KanjarooProblem.swift; sourceTree = "<group>"; };
+		6E012E6F238943E400858F28 /* KangarooProblem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KangarooProblem.swift; sourceTree = "<group>"; };
 		6E012E7123897BD100858F28 /* BalanceBracesSolution2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BalanceBracesSolution2.swift; sourceTree = "<group>"; };
+		6E694C1924C021B2007681F9 /* MigratoryBirds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MigratoryBirds.swift; sourceTree = "<group>"; };
+		6E694C1B24C039ED007681F9 /* DayOfTheProgrammer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayOfTheProgrammer.swift; sourceTree = "<group>"; };
+		6E9CD9CC24BF886F00A0CA8D /* DivisibleSumPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivisibleSumPairs.swift; sourceTree = "<group>"; };
+		6EB0AC7F24BEF281005ABFFB /* BreakingTheRecords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreakingTheRecords.swift; sourceTree = "<group>"; };
+		6EB0AC8124BEFE86005ABFFB /* BirthdayChocolate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirthdayChocolate.swift; sourceTree = "<group>"; };
+		6EBC365B24BE287800C73C98 /* BetweenTwoSetsSolution.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BetweenTwoSetsSolution.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,8 +128,14 @@
 				6E012E6923893D5F00858F28 /* AppleAndOrangesSolution.swift */,
 				6E012E6B23893E2200858F28 /* BalanceBracesSolution1.swift */,
 				6E012E6D2389402200858F28 /* StudentSortedGradesSolution.swift */,
-				6E012E6F238943E400858F28 /* KanjarooProblem.swift */,
+				6E012E6F238943E400858F28 /* KangarooProblem.swift */,
 				6E012E7123897BD100858F28 /* BalanceBracesSolution2.swift */,
+				6EBC365B24BE287800C73C98 /* BetweenTwoSetsSolution.swift */,
+				6EB0AC7F24BEF281005ABFFB /* BreakingTheRecords.swift */,
+				6EB0AC8124BEFE86005ABFFB /* BirthdayChocolate.swift */,
+				6E9CD9CC24BF886F00A0CA8D /* DivisibleSumPairs.swift */,
+				6E694C1924C021B2007681F9 /* MigratoryBirds.swift */,
+				6E694C1B24C039ED007681F9 /* DayOfTheProgrammer.swift */,
 			);
 			path = HackerRank;
 			sourceTree = "<group>";
@@ -275,9 +293,15 @@
 				6E012E3E23892D3700858F28 /* ViewController.swift in Sources */,
 				6E012E7223897BD100858F28 /* BalanceBracesSolution2.swift in Sources */,
 				6E012E6C23893E2200858F28 /* BalanceBracesSolution1.swift in Sources */,
+				6E694C1C24C039ED007681F9 /* DayOfTheProgrammer.swift in Sources */,
 				6E012E3C23892D3700858F28 /* AppDelegate.swift in Sources */,
-				6E012E70238943E400858F28 /* KanjarooProblem.swift in Sources */,
+				6E694C1A24C021B2007681F9 /* MigratoryBirds.swift in Sources */,
+				6EB0AC8024BEF281005ABFFB /* BreakingTheRecords.swift in Sources */,
+				6E012E70238943E400858F28 /* KangarooProblem.swift in Sources */,
+				6E9CD9CD24BF886F00A0CA8D /* DivisibleSumPairs.swift in Sources */,
 				6E012E6A23893D5F00858F28 /* AppleAndOrangesSolution.swift in Sources */,
+				6EBC365C24BE287900C73C98 /* BetweenTwoSetsSolution.swift in Sources */,
+				6EB0AC8224BEFE86005ABFFB /* BirthdayChocolate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

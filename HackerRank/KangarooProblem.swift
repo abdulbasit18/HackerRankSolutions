@@ -8,7 +8,7 @@
 
 import Foundation
 
-class KanjarooProblem {
+class KangarooProblem {
     
     func kangaroo(x1: Int, v1: Int, x2: Int, v2: Int) -> String {
         
@@ -20,16 +20,16 @@ class KanjarooProblem {
         else {
             startingCount = x2
         }
-        var distaceForKangroo1 = x1
-        var distaceForKangroo2 = x2
+        var distanceForKangaroo1 = x1
+        var distanceForKangaroo2 = x2
         
         for _ in startingCount...9999 {
             
-            distaceForKangroo1 += v1
+            distanceForKangaroo1 += v1
             
-            distaceForKangroo2 += v2
+            distanceForKangaroo2 += v2
             
-            if distaceForKangroo1 == distaceForKangroo2 {
+            if distanceForKangaroo1 == distanceForKangaroo2 {
                 return "YES"
                 
             }

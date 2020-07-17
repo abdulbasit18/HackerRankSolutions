@@ -18,9 +18,9 @@ class BalanceBracesSolution2 {
         
         for val in values {
             let stack = Stack<BraceType>()
-            let charaterArray = val.reversed().reversed()
+            let characterArray = val.reversed().reversed()
             
-            outerLoop: for (index,char) in charaterArray.enumerated() {
+            outerLoop: for (index,char) in characterArray.enumerated() {
                 if let char = BraceType(rawValue: char) {
                     
                     switch char.isOpen() {
@@ -30,7 +30,7 @@ class BalanceBracesSolution2 {
                     case false:
                         let popChar = stack.pop()
                         if char == popChar{
-                            if index == charaterArray.count - 1 {
+                            if index == characterArray.count - 1 {
                                 if stack.isEmpty() {
                                     output.append("YES")
                                     break
